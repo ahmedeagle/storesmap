@@ -1,5 +1,5 @@
 ﻿<?php
 
-  echo "hello string";
+  echo "hello string only for dev1 branch";
 
 ?>
